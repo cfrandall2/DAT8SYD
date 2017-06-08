@@ -1,0 +1,5 @@
+### Homework Carolyn Randall
+## Markdown language exercise
+# GA Data Science Class - Assignment due June 9 2017
+>
+> Summary of the assignment: Write a summary of 2 chapters of [The Data Science Handbook](http://www.thedatasciencehandbook.com/) in Markdown in this notebook and commit it to your repository on github
